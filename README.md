@@ -1,5 +1,5 @@
 
-# Coding Challenge Description
+# Coding Challenge V2 Description
 
 ## Coding Challenge V2 Hosted on GitHub Pages [Here](https://xiraynedev.github.io/coding-challenge-v2/)
 
